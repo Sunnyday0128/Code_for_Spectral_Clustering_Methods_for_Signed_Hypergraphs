@@ -13,3 +13,6 @@ This part is similar to the "hierarchical_partition_gene" branch, except that it
 
 # dataset
 This section provides six real dataset files used in the text. Among them, for four citation networks, due to the lack of associated positive and negative information, they need to be generated manually. The codes for the relevant methods are included in each branch.
+
+# Contact information
+Since the code and dataset have only been roughly organized, if you encounter any problems during use, please feel free to contact us at the following email address: lucky0128mw@163.com
